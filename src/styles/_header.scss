@@ -24,13 +24,13 @@
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   .site-title {
-    font-size: 40px;
+    font-size: 30px;
     display: block;
     line-height: 1;
     color: #fff;
     @media only screen and (min-width: $cut) {
       margin: 0;
-      font-size: 70px;
+      font-size: 60px;
     }
   }
   .site-description {
@@ -38,9 +38,9 @@
     display: block;
     line-height: 1;
     color: #fff;
-    margin-top: 10px;
+    margin-top: 20px;
     @media only screen and (min-width: $cut) {
-      font-size: 30px;
+      font-size: 25px;
     }
   }
 }
